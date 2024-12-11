@@ -1,0 +1,20 @@
+Updated Button Prompts Textures (20241202)
+
+The only included (and updated) textures are:
+- Race complete: spr_sprani_game_cvt_Exst/39229D64_1024x1024.dds
+	The text from this texture was redesigned by SonicTV some weeks ago.
+- Unlock screen: spr_sprani_congrats_cvt_Exst/455717B2_512x512.dds
+	The radial stripes were redesigned by me (Lambada).
+- Holly's requests: spr_sprani_fruity_cvt_Exst/FA7BBB13_1024x512.dds
+
+Layouts:
+- Generic: Dark
+- Keyboard
+- Nintendo: Dark
+- PlayStation: Color
+- Xbox: Classic
+
+All buttons were used from here:
+https://github.com/Sonic-TV/OR2006Sprites/tree/main/PSDs%2C%20XCFs%2C%20SVGs%2C%20and%20other%20Working%20Source%20Assets/Button%20Prompts
+
+Source files are included in PSD with layers, and the radial stripes graphics is available in AI/SVG vector format.
