@@ -1,4 +1,6 @@
-# Contributions welcome!
+<img src="https://i.imgur.com/qPfpS1a.png" width="400"/>
+
+# OR2006Sprites - Contributions are welcome!
 
 A repository hosting all sprites that have been ripped from the various Outrun 2[006] versions, as well as any HD UI remakes and texture mods. Asset replacements are intended to be used with [OutRun2006 Tweaks.](https://github.com/emoose/OutRun2006Tweaks/)
 
@@ -106,6 +108,8 @@ Rename to sega441.flac, put it in the Sound folder.
 ## [2SP Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2328433846)
 A new titlescreen that mimics the 2SP arcade intro, completely remade in 4k by Sonic-TV.
 
+## [Outrun 2 Titlescreen Remake](https://github.com/emoose/OutRun2006Tweaks/issues/20#issuecomment-2746363307)
+A new titlescreen remake by iguanaclerk.
 
 ## Special Thanks to Contributors
 emoose for making this possible
